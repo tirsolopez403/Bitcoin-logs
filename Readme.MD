@@ -1,0 +1,2 @@
+Logs of bitcoin repository
+-------------
