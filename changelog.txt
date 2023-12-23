@@ -74,3 +74,4 @@ Bitcoin-logs: Update changelog 2023-12-20
 Bitcoin-logs: Update changelog 2023-12-21
 Bitcoin-logs: Update changelog 2023-12-22
 Bitcoin-logs: Update changelog 2023-12-23
+Bitcoin-logs: Update changelog 2023-12-24
